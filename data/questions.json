@@ -1,0 +1,1628 @@
+[
+  {
+    "id": "K9-01",
+    "source": "Kahoot profesor · Semana 9",
+    "week": 9,
+    "topic": "Medición de desempeño y EVM",
+    "question": "¿Cuál es el resultado principal del proceso de medición de desempeño en un proyecto?",
+    "options": [
+      "Aumentar documentación técnica",
+      "Transparencia y conciencia situacional",
+      "Aprobar automáticamente solicitudes",
+      "Eliminar reuniones de revisión"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "K9-02",
+    "source": "Kahoot profesor · Semana 9",
+    "week": 9,
+    "topic": "Medición de desempeño y EVM",
+    "question": "¿Qué caracteriza a una métrica accionable?",
+    "options": [
+      "Permite decisiones informadas útiles",
+      "Evalúa exclusivamente contratistas externos",
+      "Mide únicamente eventos pasados",
+      "Muestra datos atractivos inservibles"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "K9-03",
+    "source": "Kahoot profesor · Semana 9",
+    "week": 9,
+    "topic": "Medición de desempeño y EVM",
+    "question": "¿Qué tipo de indicador revela tendencias futuras y permite tomar acciones preventivas?",
+    "options": [
+      "Indicador líder (Leading)",
+      "Métrica de vanidad",
+      "Indicador rezagado (Lagging)",
+      "Registro histórico"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "K9-04",
+    "source": "Kahoot profesor · Semana 9",
+    "week": 9,
+    "topic": "Medición de desempeño y EVM",
+    "question": "¿Qué herramienta visual muestra el trabajo o esfuerzo RESTANTE a lo largo del tiempo?",
+    "options": [
+      "Diagrama de Ishikawa",
+      "Gráfico de trabajo pendiente",
+      "Gráfico de trabajo realizado",
+      "Gráfico de velocidad"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "K9-05",
+    "source": "Kahoot profesor · Semana 9",
+    "week": 9,
+    "topic": "Medición de desempeño y EVM",
+    "question": "En agilidad, ¿qué compara la gráfica de velocidad (Velocity Chart)?",
+    "options": [
+      "Historias aprobadas vs rechazadas",
+      "Horas trabajadas vs reuniones",
+      "Costo planificado vs real",
+      "Esfuerzo comprometido vs entregado"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "K9-06",
+    "source": "Kahoot profesor · Semana 9",
+    "week": 9,
+    "topic": "Medición de desempeño y EVM",
+    "question": "¿Cuál es la diferencia clave entre Lead Time y Cycle Time?",
+    "options": [
+      "Lead mide dinero",
+      "No existe ninguna diferencia",
+      "Lead solicitud; Cycle ejecución",
+      "Cycle predictivo; Lead ágil"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "K9-07",
+    "source": "Kahoot profesor · Semana 9",
+    "week": 9,
+    "topic": "Medición de desempeño y EVM",
+    "question": "En la Gestión del Valor Ganado (EVM), ¿qué representa el Valor Ganado (EV)?",
+    "options": [
+      "Presupuesto total aprobado (BAC)",
+      "Costo proyectado restante",
+      "Costo total gastado (AC)",
+      "Presupuesto de trabajo completado"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "K9-08",
+    "source": "Kahoot profesor · Semana 9",
+    "week": 9,
+    "topic": "Medición de desempeño y EVM",
+    "question": "Si un proyecto presenta un Índice de Desempeño del Cronograma (SPI) de 0.83, ¿cuál es su estado?",
+    "options": [
+      "Avanza más rápido",
+      "Consumido 83% presupuesto",
+      "Retrasado respecto al cronograma",
+      "Exactamente con cronograma"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "K9-09",
+    "source": "Kahoot profesor · Semana 9",
+    "week": 9,
+    "topic": "Medición de desempeño y EVM",
+    "question": "¿Cómo se interpreta un Índice de Desempeño del Costo (CPI) menor a 1.0 (ej. 0.89)?",
+    "options": [
+      "Operando sin presupuesto",
+      "Proyecto en sobrecosto",
+      "Finalizó antes de tiempo",
+      "Por debajo del costo"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "K9-10",
+    "source": "Kahoot profesor · Semana 9",
+    "week": 9,
+    "topic": "Medición de desempeño y EVM",
+    "question": "¿Qué representa la Estimación a la Conclusión (EAC) calculada como BAC / CPI?",
+    "options": [
+      "Tiempo adicional necesario",
+      "Presupuesto reserva de gestión",
+      "Variación acumulada de costo",
+      "Costo total proyectado final"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "K10-01",
+    "source": "Kahoot profesor · Semana 10",
+    "week": 10,
+    "topic": "Scrum",
+    "question": "En un enfoque de ejecución PREDICTIVO, ¿cuándo se entrega el producto final?",
+    "options": [
+      "En incrementos al final de cada iteración",
+      "De forma continua en la fase de iniciación",
+      "En una sola entrega al final del proyecto",
+      "Con entregas parciales semanales sin probar"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "K10-02",
+    "source": "Kahoot profesor · Semana 10",
+    "week": 10,
+    "topic": "Scrum",
+    "question": "¿Cuáles son los tres pilares empíricos fundamentales del marco Scrum?",
+    "options": [
+      "Transparencia, Inspección y Adaptación",
+      "Planificación, Ejecución y Cierre",
+      "Calidad, Riesgo y Recursos",
+      "Alcance, Tiempo y Costo"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "K10-03",
+    "source": "Kahoot profesor · Semana 10",
+    "week": 10,
+    "topic": "Scrum",
+    "question": "¿Qué rol en Scrum es responsable de maximizar el valor del producto y gestionar la prioridad del Product Backlog?",
+    "options": [
+      "Comité de Control de Cambios",
+      "Equipo de Desarrollo (Developers)",
+      "Product Owner",
+      "Scrum Master"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "K10-04",
+    "source": "Kahoot profesor · Semana 10",
+    "week": 10,
+    "topic": "Scrum",
+    "question": "¿Cuál es la duración máxima (timebox) recomendada para la reunión diaria (Daily Scrum)?",
+    "options": [
+      "30 minutos",
+      "15 minutos",
+      "60 minutos",
+      "5 minutos"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "K10-05",
+    "source": "Kahoot profesor · Semana 10",
+    "week": 10,
+    "topic": "Scrum",
+    "question": "¿Qué artefacto contiene subconjunto ítems seleccionados del Product Backlog para la iteración actual junto a sus tareas?",
+    "options": [
+      "Sprint Backlog",
+      "Product Backlog",
+      "Lista de Hitos",
+      "Acta de Constitución"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "K10-06",
+    "source": "Kahoot profesor · Semana 10",
+    "week": 10,
+    "topic": "Scrum",
+    "question": "¿Qué evento de Scrum sirve para presentar el incremento completado a los interesados y recibir retroalimentación?",
+    "options": [
+      "Daily Scrum",
+      "Sprint Retrospective",
+      "Sprint Review",
+      "Sprint Planning"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "K10-07",
+    "source": "Kahoot profesor · Semana 10",
+    "week": 10,
+    "topic": "Scrum",
+    "question": "¿Cómo se denomina a la lista de verificación que garantiza que un entregable cumple con los criterios para ser liberado?",
+    "options": [
+      "Definición de Terminado (Definition of Done - DoD)",
+      "Regla del 100%",
+      "Enunciado del Alcance",
+      "Criterio de Aceptación Inicial"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "K10-08",
+    "source": "Kahoot profesor · Semana 10",
+    "week": 10,
+    "topic": "Scrum",
+    "question": "Quiénes son los responsables directos de transformar las historias del Sprint Backlog en un incremento usable de calidad",
+    "options": [
+      "El Equipo de Desarrollo (Developers)",
+      "Los Auditores Externos",
+      "El Product Owner y el Sponsor",
+      "El Scrum Master y los Clientes"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "K10-09",
+    "source": "Kahoot profesor · Semana 10",
+    "week": 10,
+    "topic": "Scrum",
+    "question": "¿Qué gráfica se utiliza para monitorear la cantidad de trabajo estimado que falta por completar dentro de un Sprint?",
+    "options": [
+      "Diagrama de Ishikawa",
+      "Gráfico de Trabajo Pendiente (Sprint Burndown Chart)",
+      "Matriz RACI",
+      "Gráfico de Gantt"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "K10-10",
+    "source": "Kahoot profesor · Semana 10",
+    "week": 10,
+    "topic": "Scrum",
+    "question": "¿En función de qué criterio principal el Product Owner prioriza los elementos del Product Backlog?",
+    "options": [
+      "Mayor valor de negocio para el cliente",
+      "Orden de llegada de los requerimientos",
+      "Facilidad de implementación técnica",
+      "Menor costo de desarrollo"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "K11-01",
+    "source": "Kahoot profesor · Semana 11",
+    "week": 11,
+    "topic": "Control de cambios",
+    "question": "¿Qué grupo formalmente constituido es responsable de revisar, evaluar, aprobar, posponer o rechazar las Sol. Cambio ?",
+    "options": [
+      "Comité de Control (CCB)",
+      "Equipo Auditores Externos",
+      "Oficina de Recursos Humanos",
+      "Equipo de Desarrollo"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "K11-02",
+    "source": "Kahoot profesor · Semana 11",
+    "week": 11,
+    "topic": "Control de cambios",
+    "question": "En enfoques PREDICTIVOS, ¿a partir de qué momento las modificaciones deben someterse a un proceso formal de CTrlCambios?",
+    "options": [
+      "Líneas base establecidas",
+      "Borrador Project Charter",
+      "Fase de cierre",
+      "Desde reunión de inicio"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "K11-03",
+    "source": "Kahoot profesor · Semana 11",
+    "week": 11,
+    "topic": "Control de cambios",
+    "question": "En enfoques ADAPTATIVOS (ágiles), ¿cómo se procesan y gestionan habitualmente las solicitudes de cambio?",
+    "options": [
+      "Congelando el proyecto",
+      "Formularios impresos CCB",
+      "Rechazando cualquier cambio",
+      "Priorización Product Backlog"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "K11-04",
+    "source": "Kahoot profesor · Semana 11",
+    "week": 11,
+    "topic": "Control de cambios",
+    "question": "¿El proceso cuyo objetivo principal es formalizar la aceptación de los entregables completados por parte del cliente?",
+    "options": [
+      "Control de Calidad",
+      "Definir el Alcance",
+      "Validar el Alcance",
+      "Desarrollar la EDT/WBS"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "K11-05",
+    "source": "Kahoot profesor · Semana 11",
+    "week": 11,
+    "topic": "Control de cambios",
+    "question": "¿Cómo se denominan los entregables revisados e inspeccionados internamente para confirmar que son téc. correctos?",
+    "options": [
+      "Entregables finales",
+      "Entregables diferidos",
+      "Entregables verificados",
+      "Entregables aceptados"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "K11-06",
+    "source": "Kahoot profesor · Semana 11",
+    "week": 11,
+    "topic": "Control de cambios",
+    "question": "¿Qué docum. o Artef. registra la lista completa y el estado actualizado (aprobado, rechazado, aplazado) de Sol.Cambio?",
+    "options": [
+      "Lecciones Aprendidas",
+      "Registro de Interesados",
+      "Matriz RACI",
+      "Change Log"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "K11-07",
+    "source": "Kahoot profesor · Semana 11",
+    "week": 11,
+    "topic": "Control de cambios",
+    "question": "Qué análisis se realiza antes de aprobar o rechazar un cambio para evaluar sus efectos: alcance, tiempo, costo y riesgo?",
+    "options": [
+      "Análisis Monte Carlo",
+      "Análisis de Impacto",
+      "Causa Raíz",
+      "Valor Ganado (EVM)"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "K11-08",
+    "source": "Kahoot profesor · Semana 11",
+    "week": 11,
+    "topic": "Control de cambios",
+    "question": "En entorno adaptativo, ¿qué significa que a una propuesta de cambio se le asigne una prioridad baja en Product Backlog?",
+    "options": [
+      "El cambio pospone",
+      "Cancela contrato proyecto",
+      "Aprobado desarrollo inmediato",
+      "Falla técnica automática"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "K11-09",
+    "source": "Kahoot profesor · Semana 11",
+    "week": 11,
+    "topic": "Control de cambios",
+    "question": "¿Cuál es la función principal del Plan de Gestión de la Configuración dentro del gobierno del proyecto?",
+    "options": [
+      "Registrar facturas proveedores",
+      "Asignar descansos personal",
+      "Reglas de convivencia",
+      "Control versiones artefactos"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "K11-10",
+    "source": "Kahoot profesor · Semana 11",
+    "week": 11,
+    "topic": "Control de cambios",
+    "question": "¿Cuáles son las 4 decisiones posibles que puede emitir el Comité de Control de Cambios sobre una solicitud de cambio?",
+    "options": [
+      "Correctivo Preventivo Defectuoso Neutro",
+      "Aceptado Transferido Mitigado Evitado",
+      "Iniciado Planificado Ejecutado Cerrado",
+      "Aprobado Rechazado Aplazado Info"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "K12-01",
+    "source": "Kahoot profesor · Semana 12",
+    "week": 12,
+    "topic": "Desempeño del equipo",
+    "question": "¿En qué etapa de Tuckman el equipo aprende sobre el proyecto y actúa de forma independiente?",
+    "options": [
+      "Normalización",
+      "Desempeño",
+      "Turbulencia",
+      "Formación"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "K12-02",
+    "source": "Kahoot profesor · Semana 12",
+    "week": 12,
+    "topic": "Desempeño del equipo",
+    "question": "¿Qué etapa de Tuckman se caracteriza por fricciones, desacuerdos y competencia por posiciones?",
+    "options": [
+      "Normalización",
+      "Formación",
+      "Turbulencia",
+      "Desempeño"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "K12-03",
+    "source": "Kahoot profesor · Semana 12",
+    "week": 12,
+    "topic": "Desempeño del equipo",
+    "question": "En Tuckman, ¿en qué etapa el equipo ajusta hábitos, genera confianza y trabaja en conjunto?",
+    "options": [
+      "Turbulencia",
+      "Formación",
+      "Normalización",
+      "Disolución"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "K12-04",
+    "source": "Kahoot profesor · Semana 12",
+    "week": 12,
+    "topic": "Desempeño del equipo",
+    "question": "¿Qué etapa de Tuckman muestra a un equipo autónomo, interdependiente y altamente eficaz?",
+    "options": [
+      "Normalización",
+      "Formación",
+      "Desempeño",
+      "Turbulencia"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "K12-05",
+    "source": "Kahoot profesor · Semana 12",
+    "week": 12,
+    "topic": "Desempeño del equipo",
+    "question": "Según el método de negociación de Harvard, ¿qué paradigma se busca reemplazar?",
+    "options": [
+      "Ganar-ganar por una solución ganar-perder",
+      "La torta que se reparte por la torta que se multiplica",
+      "El beneficio mutuo por el beneficio individual",
+      "Los criterios objetivos por posiciones cerradas"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "K12-06",
+    "source": "Kahoot profesor · Semana 12",
+    "week": 12,
+    "topic": "Desempeño del equipo",
+    "question": "¿Qué técnica de conflicto busca una solución ganar-ganar mediante el diálogo abierto?",
+    "options": [
+      "Forzar / Dirigir",
+      "Confrontar / Resolver problemas",
+      "Consentir / Ceder",
+      "Apartarse / Eludir"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "K12-07",
+    "source": "Kahoot profesor · Semana 12",
+    "week": 12,
+    "topic": "Desempeño del equipo",
+    "question": "¿Cuál es la primera fase sugerida por Esther Derby y Diana Larsen para una retrospectiva?",
+    "options": [
+      "Armar el escenario",
+      "Recolectar datos",
+      "Decidir qué hacer",
+      "Indagar / Entendimiento"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "K12-08",
+    "source": "Kahoot profesor · Semana 12",
+    "week": 12,
+    "topic": "Desempeño del equipo",
+    "question": "¿Qué herramienta del equipo ayuda a definir normas de trabajo y reducir probabilidad de conflicto?",
+    "options": [
+      "Lista de hitos",
+      "Diagrama de Ishikawa",
+      "Reglas básicas y acuerdos de equipo",
+      "Matriz de trazabilidad"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "K12-09",
+    "source": "Kahoot profesor · Semana 12",
+    "week": 12,
+    "topic": "Desempeño del equipo",
+    "question": "En una retrospectiva ágil, ¿cuál es el rol principal que debe asumir el Scrum Master?",
+    "options": [
+      "Definir de forma única el backlog",
+      "Imponer soluciones técnicas",
+      "Facilitar la reunión sin opinar ni imponer soluciones",
+      "Evaluar individualmente los salarios"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "K12-10",
+    "source": "Kahoot profesor · Semana 12",
+    "week": 12,
+    "topic": "Desempeño del equipo",
+    "question": "¿Qué técnica de retrospectiva se enfoca en las emociones del equipo para lograr una visión común de lo acontecido?",
+    "options": [
+      "5 Porqués",
+      "Histograma de satisfacción",
+      "Mad, Sad, Glad",
+      "Matriz RACI"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "K13-01",
+    "source": "Kahoot profesor · Semana 13",
+    "week": 13,
+    "topic": "PMO",
+    "question": "¿Qué significan las siglas PMO en el ámbito de la gestión organizacional?",
+    "options": [
+      "Process Management Organization",
+      "Project Measuring Option",
+      "Program Marketing Office",
+      "Project Management Office"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "K13-02",
+    "source": "Kahoot profesor · Semana 13",
+    "week": 13,
+    "topic": "PMO",
+    "question": "¿Qué tipo de PMO ofrece plantillas, capacitaciones y buenas prácticas con bajo nivel de control?",
+    "options": [
+      "PMO Ejecutiva",
+      "PMO Directiva",
+      "PMO de Control",
+      "PMO de Apoyo"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "K13-03",
+    "source": "Kahoot profesor · Semana 13",
+    "week": 13,
+    "topic": "PMO",
+    "question": "¿Qué tipo de PMO asume la gestión directa de los proyectos y asigna a los Project Managers?",
+    "options": [
+      "PMO Consultiva",
+      "PMO de Apoyo",
+      "PMO Directiva",
+      "PMO de Control"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "K13-04",
+    "source": "Kahoot profesor · Semana 13",
+    "week": 13,
+    "topic": "PMO",
+    "question": "Según el PMBOK v8 (Apéndice X2), ¿cuál es la evolución principal del enfoque de la PMO moderna?",
+    "options": [
+      "De socio estratégico a auditoría estricta de documentos",
+      "De entidad basada en procesos a socio centrado en el cliente y valor",
+      "De gestión de productos a supervisión legal de contratos",
+      "De apoyo a los proyectos a control exclusivo de costos"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "K13-05",
+    "source": "Kahoot profesor · Semana 13",
+    "week": 13,
+    "topic": "PMO",
+    "question": "¿Cuál es la diferencia fundamental entre el rol del Project Manager y la PMO?",
+    "options": [
+      "El PM dirige un proyecto; la PMO opera a nivel organizacional",
+      "El PM aprueba el presupuesto global y la PMO ejecuta el código técnico",
+      "La PMO administra un solo proyecto y el PM dirige el portafolio",
+      "No existe ninguna diferencia entre ambos roles en la organización"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "K13-06",
+    "source": "Kahoot profesor · Semana 13",
+    "week": 13,
+    "topic": "PMO",
+    "question": "En la centralidad en el cliente de la PMO, ¿quienes se consideran clientes directos?",
+    "options": [
+      "Únicamente los auditores externos de la empresa",
+      "Project Managers, Program Managers y Ejecutivos de la organización",
+      "Exclusivamente los usuarios finales del producto",
+      "Solo los proveedores de materias primas"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "K13-07",
+    "source": "Kahoot profesor · Semana 13",
+    "week": 13,
+    "topic": "PMO",
+    "question": "¿Cuál es la propuesta de valor fundamental de una PMO moderna según el PMBOK v8?",
+    "options": [
+      "Reemplazar al cliente en la aceptación final del producto",
+      "Controlar de forma rígida los viáticos del equipo de proyecto",
+      "Permitir la ejecución estratégica y optimizar la entrega de valor",
+      "Aumentar la burocracia documental y firmas administrativas"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "K13-08",
+    "source": "Kahoot profesor · Semana 13",
+    "week": 13,
+    "topic": "PMO",
+    "question": "En el modelo OPM3 de madurez de la PMO del PMI, ¿cuál es el orden correcto de progreso?",
+    "options": [
+      "Apoyo, Control, Dirección y Auditoría",
+      "Inicio, Planificación, Ejecución y Cierre",
+      "Estandarizado, Medido, Controlado y Mejora Continua",
+      "Reacción, Medición, Documentación y Cierre"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "K13-09",
+    "source": "Kahoot profesor · Semana 13",
+    "week": 13,
+    "topic": "PMO",
+    "question": "¿Cómo se denomina a la PMO que opera a nivel organizacional conectando la estrategia global?",
+    "options": [
+      "PMO Operativa",
+      "PMO Corporativa o Empresarial",
+      "PMO Funcional",
+      "PMO Temporal"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "K13-10",
+    "source": "Kahoot profesor · Semana 13",
+    "week": 13,
+    "topic": "PMO",
+    "question": "¿Qué caracteriza principalmente a una PMO de Control?",
+    "options": [
+      "Asume la ejecución técnica de las tareas del proyecto",
+      "Proporciona únicamente asesoría opcional sin supervisión",
+      "Exige cumplimiento de estándares, metodologías y auditorías",
+      "Elimina todo tipo de reporte y seguimiento financiero"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "K7-01",
+    "source": "Kahoot profesor · Semana 7",
+    "week": 7,
+    "topic": "Gestión de riesgos",
+    "question": "Según la Guía del PMBOK®, ¿qué es un riesgo en un proyecto?",
+    "options": [
+      "Pérdida financiera inevitable",
+      "Un problema actual",
+      "Error de programación",
+      "Evento incierto con efecto"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "K7-02",
+    "source": "Kahoot profesor · Semana 7",
+    "week": 7,
+    "topic": "Gestión de riesgos",
+    "question": "¿Cuál es la diferencia clave entre una Amenaza y una Oportunidad?",
+    "options": [
+      "Amenaza negativo, oportunidad positivo",
+      "Amenaza Sponsor, oportunidad cliente",
+      "Amenaza ágiles, oportunidad predictivos",
+      "Amenaza segura, oportunidad probable"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "K7-03",
+    "source": "Kahoot profesor · Semana 7",
+    "week": 7,
+    "topic": "Gestión de riesgos",
+    "question": "¿Cuál es la diferencia entre un Riesgo y un Incidente (Issue)?",
+    "options": [
+      "Riesgo financiero, incidente técnico",
+      "Incidente positivo, riesgo negativo",
+      "Riesgo futuro, incidente ocurrió",
+      "No existe ninguna diferencia"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "K7-04",
+    "source": "Kahoot profesor · Semana 7",
+    "week": 7,
+    "topic": "Gestión de riesgos",
+    "question": "¿Qué es la Estructura de Desglose de Riesgos (RBS)?",
+    "options": [
+      "Lista de costos asociados",
+      "Cronograma de contingencias",
+      "Matriz de responsabilidades",
+      "Representación jerárquica de fuentes"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "K7-05",
+    "source": "Kahoot profesor · Semana 7",
+    "week": 7,
+    "topic": "Gestión de riesgos",
+    "question": "¿Qué estrategia traslada la propiedad e impacto de una amenaza a un tercero (ej. seguro o garantía)?",
+    "options": [
+      "Evitar",
+      "Aceptar",
+      "Mitigar",
+      "Transferir"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "K7-06",
+    "source": "Kahoot profesor · Semana 7",
+    "week": 7,
+    "topic": "Gestión de riesgos",
+    "question": "¿Qué estrategia busca asegurar que una oportunidad definitivamente se concrete?",
+    "options": [
+      "Mitigar",
+      "Explotar",
+      "Evitar",
+      "Compartir"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "K7-07",
+    "source": "Kahoot profesor · Semana 7",
+    "week": 7,
+    "topic": "Gestión de riesgos",
+    "question": "¿Qué reserva cubre los riesgos identificados (\"conocidos-desconocidos\") y está dentro de la línea base?",
+    "options": [
+      "Reserva de Gestión",
+      "Margen de Utilidad",
+      "Fondo Operativo Directo",
+      "Reserva para Contingencias"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "K7-08",
+    "source": "Kahoot profesor · Semana 7",
+    "week": 7,
+    "topic": "Gestión de riesgos",
+    "question": "¿Qué reserva se destina a eventos imprevistos (\"desconocidos-desconocidos\") y está fuera de la línea base?",
+    "options": [
+      "Fondo de Inversión",
+      "Reserva para Contingencias",
+      "Reserva de Gestión",
+      "Cuenta de Control"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "K7-09",
+    "source": "Kahoot profesor · Semana 7",
+    "week": 7,
+    "topic": "Gestión de riesgos",
+    "question": "¿Para qué se utiliza la Matriz de Probabilidad e Impacto?",
+    "options": [
+      "Calcular salarios del equipo",
+      "Evaluar y priorizar riesgos",
+      "Firmar contrato de adquisiciones",
+      "Registrar hitos del cronograma"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "K7-10",
+    "source": "Kahoot profesor · Semana 7",
+    "week": 7,
+    "topic": "Gestión de riesgos",
+    "question": "En entornos adaptativos (ágiles), ¿cuándo se realiza principalmente la gestión de riesgos?",
+    "options": [
+      "Únicamente en fase iniciación",
+      "Al finalizar el proyecto",
+      "Solo al solicitar cambio",
+      "Iterativa al inicio Sprint"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "B-01",
+    "source": "Evaluación real de compañera · Blackboard",
+    "week": 11,
+    "topic": "Control de cambios",
+    "question": "¿Qué tarea forma parte del flujo del proceso de control de cambios tras la evaluación de impacto?",
+    "options": [
+      "Implementación y comunicación del cambio",
+      "Auditoría de calidad",
+      "Cierre del proyecto",
+      "Planificación de la línea base"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "B-02",
+    "source": "Evaluación real de compañera · Blackboard",
+    "week": 11,
+    "topic": "Control de cambios",
+    "question": "¿Qué es lo que usualmente garantiza el Control Integrado de Cambios respecto a la línea base?",
+    "options": [
+      "Protege la línea base evitando cambios impulsivos",
+      "Elimina la necesidad de gestión de riesgos",
+      "Acelera la entrega sin evaluación",
+      "Incrementa la frecuencia de cambios sin control"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "B-03",
+    "source": "Evaluación real de compañera · Blackboard",
+    "week": 11,
+    "topic": "Control de cambios",
+    "question": "¿Cuál de las siguientes es una función del Plan de Gestión de la Configuración?",
+    "options": [
+      "Especificar qué artefactos están sujetos a control de versiones",
+      "Definir el alcance del proyecto",
+      "Asignar recursos humanos",
+      "Establecer el cronograma de hitos"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "B-04",
+    "source": "Evaluación real de compañera · Blackboard",
+    "week": 11,
+    "topic": "Control de cambios",
+    "question": "¿Qué documento se utiliza para registrar formalmente las decisiones tomadas sobre las solicitudes de cambio?",
+    "options": [
+      "Plan de Gestión de Stakeholders",
+      "Matriz RACI",
+      "Registro de Riesgos",
+      "Registro de Decisiones de Cambio"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "B-05",
+    "source": "Evaluación real de compañera · Blackboard",
+    "week": 9,
+    "topic": "Medición y EVM",
+    "question": "¿Qué indica un SPI menor a 1.0 en un proyecto?",
+    "options": [
+      "El trabajo ejecutado está por debajo del planificado",
+      "No hay desviaciones significativas",
+      "El proyecto va más rápido de lo previsto",
+      "El costo real es menor al previsto"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "B-06",
+    "source": "Evaluación real de compañera · Blackboard",
+    "week": 9,
+    "topic": "Medición y EVM",
+    "question": "¿Cuál es la diferencia clave entre Lead Time y Cycle Time?",
+    "options": [
+      "Lead Time es desde la solicitud inicial hasta la entrega; Cycle Time es solo el tiempo de ejecución",
+      "Lead Time mide costo y Cycle Time mide tiempo",
+      "No existen diferencias prácticas",
+      "Cycle Time mide valor y Lead Time mide calidad"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "B-07",
+    "source": "Evaluación real de compañera · Blackboard",
+    "week": 9,
+    "topic": "Medición y EVM",
+    "question": "¿Qué enfoque se recomienda para evitar métricas de vanidad en proyectos?",
+    "options": [
+      "Publicar todos los datos sin filtrado",
+      "Priorizar tamaño de datos sobre utilidad",
+      "Enfocarse en métricas accionables que faciliten la toma de decisiones",
+      "Usar siempre métricas de velocidad"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "B-08",
+    "source": "Evaluación real de compañera · Blackboard",
+    "week": 9,
+    "topic": "Medición y EVM",
+    "question": "¿Qué significa una variación de costo (CV) positiva?",
+    "options": [
+      "Sobrevaloración de alcance",
+      "Sobre costo",
+      "Bajo presupuesto o ahorro relativo al valor ganado",
+      "Retraso en cronograma"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "B-09",
+    "source": "Evaluación real de compañera · Blackboard",
+    "week": 9,
+    "topic": "Medición y EVM",
+    "question": "En términos de valor ganado, ¿qué representa EV?",
+    "options": [
+      "El presupuesto total aprobado para el proyecto (BAC)",
+      "El presupuesto autorizado del trabajo realmente completado",
+      "El costo proyectado para finalizar el trabajo restante",
+      "El costo total gastado a la fecha (AC)"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "B-10",
+    "source": "Evaluación real de compañera · Blackboard",
+    "week": 9,
+    "topic": "Medición y EVM",
+    "question": "En un tablero de control, ¿qué función cumplen los radiadores de información?",
+    "options": [
+      "Solo registrar datos históricos",
+      "Minimizar la visibilidad del riesgo",
+      "Ocultar desviaciones para evitar alarmas",
+      "Proporcionar transparencia y conciencia situacional del estado real"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "B-11",
+    "source": "Evaluación real de compañera · Blackboard",
+    "week": 13,
+    "topic": "PMO",
+    "question": "¿Qué rol cumple la PMO al conectar proyectos con la estrategia organizacional?",
+    "options": [
+      "Actúa como facilitadora que alinea proyectos con objetivos del negocio",
+      "Evalúa solo el cumplimiento de procesos",
+      "Ejecuta tareas operativas sin involucrar estrategia",
+      "Separa proyectos para evitar conflictos"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "B-12",
+    "source": "Evaluación real de compañera · Blackboard",
+    "week": 13,
+    "topic": "PMO",
+    "question": "¿Qué indica el concepto de “valor ganado” (EV) en PMBOK 8?",
+    "options": [
+      "Medición de la productividad del equipo sin relación con el presupuesto",
+      "Medición del progreso real respecto al presupuesto autorizado para el trabajo",
+      "Medición solo de costos",
+      "Medición de la satisfacción del cliente"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "B-13",
+    "source": "Evaluación real de compañera · Blackboard",
+    "week": 13,
+    "topic": "PMO",
+    "question": "Qué se entiende por “Modelo de PMO” en el contenido?",
+    "options": [
+      "Una plantilla para informes mensuales",
+      "Conjunto de enfoques sobre dónde opera la PMO y cómo interactúa con proyectos, programas y portafolio",
+      "Un programa de capacitación obligatorio",
+      "Un software específico para gestión de proyectos"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "B-14",
+    "source": "Evaluación real de compañera · Blackboard",
+    "week": 13,
+    "topic": "PMO",
+    "question": "¿Qué aspecto NO forma parte de los principios clave de una PMO centrada en el cliente?",
+    "options": [
+      "Interactuar de manera proactiva con los usuarios",
+      "Ofrecer experiencias personalizadas",
+      "Medir el éxito únicamente en términos técnicos de los proyectos",
+      "Entregar valor y resultados útiles"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "B-15",
+    "source": "Evaluación real de compañera · Blackboard",
+    "week": 10,
+    "topic": "Scrum",
+    "question": "En Scrum, ¿qué evento es útil para inspeccionar el incremento y adaptar el plan futuro con los interesados?",
+    "options": [
+      "Sprint Retrospective",
+      "Sprint Review",
+      "Daily Scrum",
+      "Sprint Planning"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "B-16",
+    "source": "Evaluación real de compañera · Blackboard",
+    "week": 10,
+    "topic": "Scrum",
+    "question": "¿Qué característica distingue al marco Scrum de otras metodologías?",
+    "options": [
+      "Uso de equipos auto-organizados orientados a entregar valor",
+      "Los entregables son secretos hasta el final",
+      "El tiempo de trabajo es fijo y no se revisa",
+      "Requiere permisos de alta dirección para cada tarea"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "B-17",
+    "source": "Evaluación real de compañera · Blackboard",
+    "week": 10,
+    "topic": "Scrum",
+    "question": "En un enfoque predictivo, ¿cuándo se entrega el producto final?",
+    "options": [
+      "Con entregas parciales semanales sin pruebas",
+      "En una entrega única al final del proyecto",
+      "De forma continua durante la fase de iniciación",
+      "En incrementos al final de cada iteración"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "B-18",
+    "source": "Evaluación real de compañera · Blackboard",
+    "week": 10,
+    "topic": "Scrum",
+    "question": "¿Quién es responsable directo de transformar las Historias de Usuario en un incremento usable?",
+    "options": [
+      "Scrum Master",
+      "Stakeholders",
+      "Equipo de Desarrollo (Developers)",
+      "Product Owner"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "B-19",
+    "source": "Evaluación real de compañera · Blackboard",
+    "week": 11,
+    "topic": "Integración de enfoques",
+    "question": "Una oportunidad tecnológica podría reducir el lead time en 20%, pero requiere inversión y genera incertidumbre de integración. ¿Qué decisión está mejor fundamentada?",
+    "options": [
+      "Rechazar toda oportunidad que implique riesgo",
+      "Cambiar todas las métricas a posteriori",
+      "Evaluar beneficio esperado, riesgos de integración, costo y posibilidad de probarla en un incremento controlado",
+      "Aprobarla automáticamente por ser una oportunidad"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "B-20",
+    "source": "Evaluación real de compañera · Blackboard",
+    "week": 11,
+    "topic": "Integración de enfoques",
+    "question": "Un equipo está en etapa de turbulencia y debe decidir cómo responder a un riesgo técnico. ¿Qué conducta del líder favorece tanto la decisión como el desempeño del equipo?",
+    "options": [
+      "Evitar la discusión hasta que ocurra el riesgo",
+      "Cambiar de integrantes para evitar desacuerdos",
+      "Imponer una solución sin escuchar argumentos",
+      "Facilitar diálogo abierto, separar personas del problema y comparar alternativas con criterios objetivos"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "B-21",
+    "source": "Evaluación real de compañera · Blackboard",
+    "week": 11,
+    "topic": "Integración de enfoques",
+    "question": "Un equipo Scrum repite un defecto de calidad en varios incrementos y además no cumple su meta de sprint. ¿Qué combinación de acciones es más adecuada?",
+    "options": [
+      "Cambiar la línea base del proyecto y omitir la retrospectiva",
+      "Aumentar velocidad objetivo sin cambiar el proceso",
+      "Revisar criterios de terminado, analizar causas en retrospectiva y definir acciones medibles para el siguiente sprint",
+      "Culpar al integrante con menor cantidad de tareas"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "B-22",
+    "source": "Evaluación real de compañera · Blackboard",
+    "week": 11,
+    "topic": "Integración de enfoques",
+    "question": "Un equipo detecta que una nueva dependencia externa amenaza la fecha de entrega. El indicador SPI cae a 0,82 y el equipo propone cambiar la fecha base inmediatamente. ¿Cuál es la mejor respuesta integrada?",
+    "options": [
+      "Analizar el riesgo y sus respuestas, investigar la desviación, evaluar alternativas y someter cualquier cambio formal a aprobación",
+      "Modificar la línea base para recuperar el indicador",
+      "Aumentar el alcance para compensar el atraso",
+      "Ignorar el riesgo porque el SPI ya lo refleja"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "B-23",
+    "source": "Evaluación real de compañera · Blackboard",
+    "week": 12,
+    "topic": "Desempeño del equipo",
+    "question": "¿Qué describe mejor el estadio de ‘formación’ en Tuckman?",
+    "options": [
+      "Miembros entienden roles y objetivos del proyecto",
+      "Conflictos intensos y ruptura de normas",
+      "El equipo ya es autónomo y eficiente",
+      "Disolución del equipo al finalizar"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "B-24",
+    "source": "Evaluación real de compañera · Blackboard",
+    "week": 12,
+    "topic": "Desempeño del equipo",
+    "question": "En la etapa de ‘desempeño’ de un equipo, ¿qué característica es típica?",
+    "options": [
+      "Baja coordinación",
+      "Interdependencia y rendimiento estable",
+      "Entorno caótico",
+      "Dependencia de un líder único"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "B-25",
+    "source": "Evaluación real de compañera · Blackboard",
+    "week": 12,
+    "topic": "Desempeño del equipo",
+    "question": "¿Cuál técnica facilita la toma de decisiones consensuada en equipo?",
+    "options": [
+      "Análisis de opciones con criterios objetivos",
+      "Decidir por mayoría simple",
+      "Dejar que decida el líder",
+      "Realizar votación secreta sin criterios"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "B-26",
+    "source": "Evaluación real de compañera · Blackboard",
+    "week": 12,
+    "topic": "Desempeño del equipo",
+    "question": "En el modelo de Tuckman, ¿qué tipo de comportamiento predomina en la fase de ‘normativización’?",
+    "options": [
+      "Desconexión entre miembros",
+      "Competencia intensa por roles",
+      "Independencia total",
+      "Cooperación y adherencia a normas"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "B-27",
+    "source": "Evaluación real de compañera · Blackboard",
+    "week": 12,
+    "topic": "Desempeño del equipo",
+    "question": "¿Qué aspecto es clave para la cultura de alto rendimiento en un equipo de proyecto?",
+    "options": [
+      "La coincidencia de personalidades en roles",
+      "La reducción de reuniones al mínimo",
+      "La seguridad psicológica que permite expresar ideas libremente",
+      "La jerarquía rígida para decisiones rápidas"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "B-28",
+    "source": "Evaluación real de compañera · Blackboard",
+    "week": 12,
+    "topic": "Desempeño del equipo",
+    "question": "¿Qué práctica permite priorizar acciones tras una retrospectiva?",
+    "options": [
+      "Dejar las acciones para después",
+      "Aumentar la carga de trabajo",
+      "Elegir un responsable único sin consenso",
+      "Definir objetivos SMART y responsables"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "A-01",
+    "source": "Evaluación real compartida · Blackboard",
+    "week": 13,
+    "topic": "PMO",
+    "question": "Según el modelo de madurez, ¿qué implica una PMO en un nivel de madurez alto de los clientes?",
+    "options": [
+      "Eliminar la gobernanza de proyectos",
+      "Limitarse a emitir reportes simples",
+      "Reducir cualquier interacción con las áreas usuarias",
+      "Actuar de forma más consultiva y con mayor dirección estratégica"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "A-02",
+    "source": "Evaluación real compartida · Blackboard",
+    "week": 13,
+    "topic": "PMO",
+    "question": "¿Qué es una PMO en términos prácticos dentro de una organización?",
+    "options": [
+      "Una unidad que apoya, coordina y estandariza la gestión de proyectos a nivel organizacional.",
+      "La oficina de compras corporativa",
+      "Un equipo de proyectos aislados que ejecuta tareas específicas",
+      "Un comité de auditoría que solo revisa costos de proyectos"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "A-03",
+    "source": "Evaluación real compartida · Blackboard",
+    "week": 13,
+    "topic": "PMO",
+    "question": "En términos de gobernanza, ¿qué busca la PMO al estandarizar metodologías?",
+    "options": [
+      "Reducir el control y las revisiones",
+      "Eliminar reportes para simplificar",
+      "Aumentar la burocracia y la documentación",
+      "Crear una forma común de trabajar y facilitar la toma de decisiones"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "A-04",
+    "source": "Evaluación real compartida · Blackboard",
+    "week": 13,
+    "topic": "PMO",
+    "question": "Qué se entiende por “Modelo de PMO” en el contenido?",
+    "options": [
+      "Una plantilla para informes mensuales",
+      "Un software específico para gestión de proyectos",
+      "Conjunto de enfoques sobre dónde opera la PMO y cómo interactúa con proyectos, programas y portafolio",
+      "Un programa de capacitación obligatorio"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "A-05",
+    "source": "Evaluación real compartida · Blackboard",
+    "week": 10,
+    "topic": "Scrum",
+    "question": "Un equipo Scrum repite un defecto de calidad en varios incrementos y además no cumple su meta de sprint. ¿Qué combinación de acciones es más adecuada?",
+    "options": [
+      "Revisar criterios de terminado, analizar causas en retrospectiva y definir acciones medibles para el siguiente sprint",
+      "Cambiar la línea base del proyecto y omitir la retrospectiva",
+      "Aumentar velocidad objetivo sin cambiar el proceso",
+      "Culpar al integrante con menor cantidad de tareas"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "A-06",
+    "source": "Evaluación real compartida · Blackboard",
+    "week": 11,
+    "topic": "Control de cambios",
+    "question": "Un equipo detecta que una nueva dependencia externa amenaza la fecha de entrega. El indicador SPI cae a 0,82 y el equipo propone cambiar la fecha base inmediatamente. ¿Cuál es la mejor respuesta integrada?",
+    "options": [
+      "Analizar el riesgo y sus respuestas, investigar la desviación, evaluar alternativas y someter cualquier cambio formal a aprobación",
+      "Ignorar el riesgo porque el SPI ya lo refleja",
+      "Aumentar el alcance para compensar el atraso",
+      "Modificar la línea base para recuperar el indicador"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "A-07",
+    "source": "Evaluación real compartida · Blackboard",
+    "week": 12,
+    "topic": "Desempeño del equipo",
+    "question": "Un equipo está en etapa de turbulencia y debe decidir cómo responder a un riesgo técnico. ¿Qué conducta del líder favorece tanto la decisión como el desempeño del equipo?",
+    "options": [
+      "Cambiar de integrantes para evitar desacuerdos",
+      "Imponer una solución sin escuchar argumentos",
+      "Facilitar diálogo abierto, separar personas del problema y comparar alternativas con criterios objetivos",
+      "Evitar la discusión hasta que ocurra el riesgo"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "A-08",
+    "source": "Evaluación real compartida · Blackboard",
+    "week": 11,
+    "topic": "Control de cambios",
+    "question": "En un proyecto híbrido, el componente regulado requiere aprobación formal de cambios y la interfaz de usuario se desarrolla iterativamente. ¿Cuál gobernanza es más coherente?",
+    "options": [
+      "Mantener control formal y trazabilidad en el componente regulado y ciclos de feedback para la interfaz, con integración entre ambos",
+      "Permitir que cada subequipo cambie cualquier requisito sin comunicarlo",
+      "Aplicar el mismo mecanismo rígido a toda tarea y eliminar feedback",
+      "No tener una línea base para ningún componente"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "A-09",
+    "source": "Evaluación real compartida · Blackboard",
+    "week": 9,
+    "topic": "Medición y EVM",
+    "question": "Si EV es 65,250 y AC es 90,000, ¿qué indica CPI = EV/AC = 0.725?",
+    "options": [
+      "El proyecto está bajo presupuesto",
+      "El proyecto está operando con ineficiencia en costos",
+      "El CPI no tiene interpretación",
+      "El proyecto está terminando dentro del tiempo"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "A-10",
+    "source": "Evaluación real compartida · Blackboard",
+    "week": 9,
+    "topic": "Medición y EVM",
+    "question": "¿Qué relación expresa la fórmula EV = % de trabajo completado × BAC?",
+    "options": [
+      "Valor planificado respecto al costo",
+      "Cronograma respecto al presupuesto",
+      "Valor Ganado en relación al alcance completado",
+      "Costo real respecto al presupuesto"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "A-11",
+    "source": "Evaluación real compartida · Blackboard",
+    "week": 9,
+    "topic": "Medición y EVM",
+    "question": "¿Qué es un indicador líder (leading) en gestión de proyectos?",
+    "options": [
+      "Es igual a un indicador rezagado",
+      "Mide resultados pasados",
+      "Solo sirve para informes estéticos",
+      "Revela tendencias futuras y permite acciones correctivas antes de que ocurra el problema"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "A-12",
+    "source": "Evaluación real compartida · Blackboard",
+    "week": 9,
+    "topic": "Medición y EVM",
+    "question": "¿Qué representa el EAC cuando se usa BAC / CPI?",
+    "options": [
+      "Variación a la conclusión",
+      "Costo total proyectado final si se mantiene el rendimiento actual",
+      "Presupuesto autorizado total",
+      "Estimación hasta la conclusión"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "A-13",
+    "source": "Evaluación real compartida · Blackboard",
+    "week": 9,
+    "topic": "Medición y EVM",
+    "question": "En un análisis de EVM, ¿qué mide el PV (Plan) exactamente?",
+    "options": [
+      "Presupuesto autorizado para el trabajo planificado",
+      "Valor ganado",
+      "Costo real",
+      "Estimación a la conclusión"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "A-14",
+    "source": "Evaluación real compartida · Blackboard",
+    "week": 9,
+    "topic": "Medición y EVM",
+    "question": "¿Qué herramienta visual se usa para comunicar el estado del trabajo pendiente y completado dentro de un equipo ágil?",
+    "options": [
+      "Gráfico de Ishikawa",
+      "Diagrama de Pareto",
+      "Velocity Chart",
+      "Burndown"
+    ],
+    "answer": 2,
+    "note": "La clave publicada marca Velocity Chart. Para trabajo restante específicamente, el gráfico habitual es Burndown; se conserva la clave tal como fue calificada."
+  },
+  {
+    "id": "A-15",
+    "source": "Evaluación real compartida · Blackboard",
+    "week": 12,
+    "topic": "Desempeño del equipo",
+    "question": "¿Qué alternativa de liderazgo promueve la creatividad del equipo?",
+    "options": [
+      "Liderazgo laissez-faire",
+      "Liderazgo participativo y facilitador",
+      "Liderazgo transaccional",
+      "Liderazgo autoritario"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "A-16",
+    "source": "Evaluación real compartida · Blackboard",
+    "week": 12,
+    "topic": "Desempeño del equipo",
+    "question": "En gestión de conflictos, ¿qué estrategia evita escalamiento entre áreas?",
+    "options": [
+      "Imponer una decisión única sin diálogo",
+      "Ignorar el conflicto hasta que desaparezca",
+      "Cambiar de equipo para cada proyecto",
+      "Definir acuerdos de servicio y responsables claros"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "A-17",
+    "source": "Evaluación real compartida · Blackboard",
+    "week": 12,
+    "topic": "Desempeño del equipo",
+    "question": "En retrospectivas, ¿qué enfoque ayuda a extraer aprendizajes más profundos?",
+    "options": [
+      "Limitarlas a elogios",
+      "Indagar en causas raíz con técnicas de exploración",
+      "Reducir la duración a 5 minutos",
+      "Evitar cualquier crítica"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "A-18",
+    "source": "Evaluación real compartida · Blackboard",
+    "week": 12,
+    "topic": "Desempeño del equipo",
+    "question": "En una simulación de conflicto, ¿qué enfoque previene pérdidas de tiempo?",
+    "options": [
+      "Eludir las decisiones difíciles",
+      "Forzar una solución única",
+      "Evitar el problema a toda costa",
+      "Confrontar problemas y generar soluciones conjuntas"
+    ],
+    "answer": 3
+  },
+  {
+    "id": "A-19",
+    "source": "Evaluación real compartida · Blackboard",
+    "week": 12,
+    "topic": "Desempeño del equipo",
+    "question": "En el modelo de Tuckman, ¿qué tipo de comportamiento predomina en la fase de ‘normativización’?",
+    "options": [
+      "Cooperación y adherencia a normas",
+      "Competencia intensa por roles",
+      "Independencia total",
+      "Desconexión entre miembros"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "A-20",
+    "source": "Evaluación real compartida · Blackboard",
+    "week": 12,
+    "topic": "Desempeño del equipo",
+    "question": "¿Qué útil herramienta ayuda a acordar normas de trabajo en equipo?",
+    "options": [
+      "Diagrama de Ishikawa",
+      "Team charter o acuerdos de equipo",
+      "Matriz de priorización",
+      "Tabla de salarios"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "A-21",
+    "source": "Evaluación real compartida · Blackboard",
+    "week": 11,
+    "topic": "Control de cambios",
+    "question": "En un entorno ágil, ¿qué componente actúa como fuente de entrada para la gestión de cambios según prácticas comunes?",
+    "options": [
+      "Mapa de stakeholders",
+      "Product Backlog priorizado",
+      "Plan de Gestión de la Calidad",
+      "Contrato de proveedores"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "A-22",
+    "source": "Evaluación real compartida · Blackboard",
+    "week": 11,
+    "topic": "Control de cambios",
+    "question": "¿Qué es lo que usualmente garantiza el Control Integrado de Cambios respecto a la línea base?",
+    "options": [
+      "Elimina la necesidad de gestión de riesgos",
+      "Acelera la entrega sin evaluación",
+      "Protege la línea base evitando cambios impulsivos",
+      "Incrementa la frecuencia de cambios sin control"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "A-23",
+    "source": "Evaluación real compartida · Blackboard",
+    "week": 11,
+    "topic": "Control de cambios",
+    "question": "¿Qué proceso se encarga de aprobar entregables que han sido verificados internamente antes de presentarlos al cliente?",
+    "options": [
+      "Asegurar la Conformidad",
+      "Validar el Alcance",
+      "Definir el Alcance",
+      "Control de Calidad"
+    ],
+    "answer": 1,
+    "note": "Según el solucionario, se espera Validar el Alcance. La redacción puede parecer ambigua; Controlar Calidad verifica técnicamente y Validar el Alcance formaliza aceptación."
+  },
+  {
+    "id": "A-24",
+    "source": "Evaluación real compartida · Blackboard",
+    "week": 11,
+    "topic": "Control de cambios",
+    "question": "¿Qué pregunta guía se utiliza para decidir si un cambio debe modificar la línea base?",
+    "options": [
+      "¿Existen alternativas sin modificar la línea base?",
+      "¿Qué coste tiene el cambio para el proveedor?",
+      "¿El cambio aporta valor al negocio?",
+      "¿Cuánto tiempo tomará implementar el cambio?"
+    ],
+    "answer": 0
+  },
+  {
+    "id": "A-25",
+    "source": "Evaluación real compartida · Blackboard",
+    "week": 10,
+    "topic": "Scrum",
+    "question": "¿Qué pregunta guía la priorización del Product Backlog desde la perspectiva de negocio?",
+    "options": [
+      "¿Qué elemento es más fácil de implementar?",
+      "¿Qué fecha de entrega es la más temprana?",
+      "¿Qué elemento entrega mayor valor al cliente y al negocio?",
+      "¿Qué requiere menos presupuesto?"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "A-26",
+    "source": "Evaluación real compartida · Blackboard",
+    "week": 10,
+    "topic": "Scrum",
+    "question": "En Scrum, ¿cuál es el objetivo principal de la Daily Scrum?",
+    "options": [
+      "Definir el objetivo del Sprint",
+      "Promover la visibilidad del avance y los impedimentos",
+      "Revisar el incremento con stakeholders",
+      "Planificar la Release"
+    ],
+    "answer": 1
+  },
+  {
+    "id": "A-27",
+    "source": "Evaluación real compartida · Blackboard",
+    "week": 10,
+    "topic": "Scrum",
+    "question": "La Definición de Hecho (DoD) garantiza qué aspecto del entregable?",
+    "options": [
+      "Que sea compatible con todas las plataformas",
+      "Que esté libre de cualquier prueba",
+      "Que cumpla criterios de calidad acordados para liberar el incremento",
+      "Que se haya implementado en todos los módulos"
+    ],
+    "answer": 2
+  },
+  {
+    "id": "A-28",
+    "source": "Evaluación real compartida · Blackboard",
+    "week": 10,
+    "topic": "Scrum",
+    "question": "Durante Sprint Planning, ¿qué componente se crea para definir qué se trabajará en el Sprint y cómo?",
+    "options": [
+      "El Product Backlog",
+      "El Incremento",
+      "El Sprint Backlog",
+      "La Definition of Done"
+    ],
+    "answer": 2
+  }
+]
